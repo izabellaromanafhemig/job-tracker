@@ -1,0 +1,6 @@
+company,position,status,applied_on,notes
+Valid Company,Developer,applied,2026-11-01,This row is fine.
+,Missing Company Ltd,applied,2026-11-02,Row 3: company is empty.
+No Position Inc,,interviewing,2026-11-03,Row 4: position is empty.
+Bad Status Co,Developer,waiting,2026-11-04,Row 5: status is not allowed.
+Bad Date Co,Developer,offer,31/02/2026,Row 6: February 31 does not exist.

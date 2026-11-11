@@ -1,0 +1,11 @@
+user_id,company,position,status,applied_on,notes
+8ecb0b1b-e12c-4956-a161-77e28dc7f766,Acme Corp,Frontend Developer,applied,2026-10-02,"Applied through the careers page. Referral from a former colleague."
+8ecb0b1b-e12c-4956-a161-77e28dc7f766,Globex,Full Stack Engineer,interviewing,2026-10-05,"First call with the recruiter went well. Technical interview scheduled."
+8ecb0b1b-e12c-4956-a161-77e28dc7f766,Initech,Junior Software Developer,rejected,2026-09-18,"Received a rejection email. They chose a candidate with more experience."
+8ecb0b1b-e12c-4956-a161-77e28dc7f766,Umbrella Health,React Developer,applied,2026-10-12,
+8ecb0b1b-e12c-4956-a161-77e28dc7f766,Stark Solutions,Backend Developer (Node.js),interviewing,2026-10-08,"Take-home assignment due next week."
+8ecb0b1b-e12c-4956-a161-77e28dc7f766,Wayne Logistics,Software Engineer I,offer,2026-09-25,"Offer received. Need to reply by the end of the month."
+8ecb0b1b-e12c-4956-a161-77e28dc7f766,Hooli,UI Engineer,applied,2026-10-20,"Remote position. Salary range not listed."
+8ecb0b1b-e12c-4956-a161-77e28dc7f766,Vandelay Industries,Web Developer,rejected,2026-09-10,
+8ecb0b1b-e12c-4956-a161-77e28dc7f766,Soylent Labs,Data Analyst,interviewing,2026-10-15,"Panel interview with the analytics team."
+8ecb0b1b-e12c-4956-a161-77e28dc7f766,Pied Piper,Full Stack Developer,applied,2026-10-28,"Startup, hybrid work. Sent portfolio link with the application."
