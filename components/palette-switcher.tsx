@@ -37,7 +37,14 @@ export function PaletteSwitcher() {
   return (
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
-        <Button variant="ghost" size="sm" aria-label="Change colors" title="Change colors">
+        {/* Light background in both themes so every color (even dark Neutral) stays visible. */}
+        <Button
+          variant="ghost"
+          size="sm"
+          aria-label="Change colors"
+          title="Change colors"
+          className="border border-neutral-300 bg-neutral-100 hover:bg-neutral-200 dark:border-neutral-400 dark:bg-neutral-200 dark:hover:bg-neutral-300"
+        >
           <Palette size={16} style={{ color: current.main }} />
         </Button>
       </DropdownMenuTrigger>
